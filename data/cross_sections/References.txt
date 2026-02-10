@@ -1,0 +1,24 @@
+HONO_Bongartz_1994
+A. Bongartz, J. Kames, U. Schurath, C. George, P. Mirabel, and J.L. Ponche, "Experimental determination of HONO mass accomodation coefficients using two different techniques", J. Atmos. Chem. 18, 149-169 (1994); DOI: 10.1007/BF00696812
+300-400nm(0.1nm)
+https://uvvis.mpch-mainz.gwdg.de/uvvis/cross_sections/Nitrogen+compounds(N,H,O)/HONO_Bongartz(1994)_298K_300-400nm(0.1nm).txt
+
+CHOCHO_Bauerle_1998
+S. Bauerle (1998), unpublished data, measured at the Max-Planck-Institut für Chemie, Mainz, Germany
+221-472nm
+https://uvvis.mpch-mainz.gwdg.de/uvvis/cross_sections/Organics%20(carbonyls)/Bicarbonyls/CHOCHO_Bauerle(1998)_298K_221-472nm.txt
+
+OClO_Bogumil_2003
+K. Bogumil, J. Orphal, T. Homann, S. Voigt, P. Spietz, O.C. Fleischmann, A. Vogel, M. Hartmann, H., Bovensmann, J. Frerick, and J.P. Burrows, "Measurements of molecular absorption spectra with the SCIAMACHY pre-flight model: Instrument characterization and reference data for atmospheric remote sensing in the 230-2380 nm region", J. Photochem. Photobiol. A: Chem. 157, 167-184 (2003); DOI: 10.1016/S1010-6030(03)00062-5
+290-460nm
+https://uvvis.mpch-mainz.gwdg.de/uvvis/cross_sections/Halogen%20oxides/Cl%20oxides/OClO_Bogumil(2003)_293K_290-460nm.txt
+
+O4_FinkenzellerVolkamer_2022
+H. Finkenzeller and R. Volkamer, "O2–O2 CIA in the gas phase: Cross-section of weak bands, and continuum absorption between 297–500 nm", J. Quant. Spectrosc. Radiat. Transfer 279, 108063 (2022); DOI: 10.1016/j.jqsrt.2021.108063
+297-500nm(vac)
+https://uvvis.mpch-mainz.gwdg.de/uvvis/cross_sections/Oxygen/O4_FinkenzellerVolkamer(2022)_263K_297-500nm(vac).txt
+
+NO2_Burrows_1998
+J.P. Burrows, A. Dehn, B. Deters, S. Himmelmann, A. Richter, S. Voigt, and J. Orphal, "Atmospheric remote-sensing reference data from GOME: Part 1. Temperature-dependent absorption cross-sections of NO2 in the 231-794 nm range", J. Quant. Spectrosc. Radiat. Transfer 60, 1025-1031 (1998); DOI: 10.1016/S0022-4073(97)00197-0
+230-794nm(air)
+https://uvvis.mpch-mainz.gwdg.de/uvvis/cross_sections/Nitrogen%20oxides/NO2_Burrows(1998)_273K_230-794nm(air).txt
