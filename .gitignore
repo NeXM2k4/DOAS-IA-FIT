@@ -1,0 +1,4 @@
+#entorno virtual
+doas_ia_fit/
+__pycache__/
+*.pyc/
