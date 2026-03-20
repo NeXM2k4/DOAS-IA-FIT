@@ -1,0 +1,12 @@
+# Datos pesados y datasets
+src/model/data_processing/archivo.csv
+data/results/
+*.csv
+*.txt
+
+# Python y entorno
+__pycache__/
+*.py[cod]
+venv/
+.env
+.ipynb_checkpoints/
