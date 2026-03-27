@@ -23,7 +23,8 @@ print(df_medida)
 filtro = Filtros.FiltroDOASIA()
 datos_procesados = filtro.procesar_espectro_ia(df_medida["Wavelength"].values, 
                                                df_referencia["Intensities"].values, 
-                                               df_medida["Intensities"].values)
+                                               df_medida["Intensities"].values,
+                                               df_offset["Intensities"].values)
 
 df_output = pd.DataFrame({
     "Wavelength(nm)": df_medida["Wavelength"],
@@ -50,6 +51,8 @@ plt.grid(alpha=0.3)
 plt.legend()
 
 plt.tight_layout()
+plt.show()
+'''
 import Filtros
 import DOAS_Processing_IPM as imp
 import pandas as pd
@@ -103,3 +106,4 @@ plt.legend()
 
 plt.tight_layout()
 plt.show()
+'''
