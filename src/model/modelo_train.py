@@ -2,7 +2,7 @@ import module as mdl
 mdl.module(__file__)
 
 import src.physics.generacion_datos as gen_data
-import tensorflow as tf
+#import tensorflow as tf
 from tensorflow.keras import layers, models
 
 
@@ -52,3 +52,4 @@ historial = modelo.fit(
     validation_split = 0.2,
     verbose          = 1
 )
+
